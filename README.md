@@ -17,4 +17,8 @@ Uses a Bernoulli Naïve Bayes model. Accuracy: 62%.
 ### CES_RNN_model_v1.py ##
 Uses a recurrent neural network with TensorFlow. Accuracy: 59%. 
 
+### CES_RNN_model_v1.py ##
+Uses a recurrent neural network with TensorFlow. Uses word embeddings from https://huggingface.co/fse/fasttext-wiki-news-subwords-300/blob/main/fasttext-wiki-news-subwords-300.model.vectors.npy.
+Accuracy: 61%. 
+
 Subsequent work will be done using Davinci-003, the technology behind OpenAI's Chat-GPT to predict a respondent's ideology.  
