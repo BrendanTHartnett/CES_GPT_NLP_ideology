@@ -20,5 +20,6 @@ Uses a recurrent neural network with TensorFlow. Accuracy: 59%.
 ### CES_RNN_model_v2.py ##
 Uses a recurrent neural network with TensorFlow. Uses word embeddings from https://huggingface.co/fse/fasttext-wiki-news-subwords-300/blob/main/fasttext-wiki-news-subwords-300.model.vectors.npy.
 Accuracy: 61%. 
+Performance shown in ### CES_RNN_model_v2_performance.py ##
 
 Subsequent work will be done using Davinci-003, the technology behind OpenAI's Chat-GPT to predict a respondent's ideology.  
