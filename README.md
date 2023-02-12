@@ -10,6 +10,8 @@ Ideology is coded as a trinary, wherein 0 is liberal, 1 is moderate, 2 is conser
 CC15_300 is an open-ended text response to the question: "When it comes to politics today, how would you describe yourself?"
 
 
+### CES_BERT_model_v1.py ##
+Uses BERT NLP to to construct a supervised model. Accuracy: 46%.  
 
 ### CES_NB_model_v1.py ##
 Uses a Bernoulli Naïve Bayes model. Accuracy: 62%.
